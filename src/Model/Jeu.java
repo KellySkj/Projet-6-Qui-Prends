@@ -25,7 +25,7 @@ public class Jeu extends Rules {
                 + espace +         "                                                                      "
                 + espace +         "~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~"
                 + espace +         "                                                                      "
-                + espace +         "   Pour commencer veuillez entrer 1  "
+                + espace +         "   Pour commencer appuyez sur n'importe quelle touche  "
                 + espace +         "                                                                      ");
         Scanner menu = new Scanner(System.in);
         rep = menu.nextInt();
